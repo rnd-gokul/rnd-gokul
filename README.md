@@ -1,5 +1,5 @@
 - 👋 Hi, I’m gokul
-- 👀 I’m interested in ReactJS,Javascript and Typescript.
+- 👀 I’m interested in ReactJS,Javascript,Typescript,System Design and Cloud Technologies
 - 🌱 I’m currently learning VueJS
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 Reach me out @greatresearch77@gmail.com
