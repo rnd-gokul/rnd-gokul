@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 Reach me out @greatresearch77@gmail.com
 
-![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https : //profile-counter.glitch.me/rnd-gokul/count.svg)
 
 <!---
 rnd-gokul/rnd-gokul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
